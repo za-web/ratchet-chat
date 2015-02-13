@@ -1,0 +1,6 @@
+.idea
+/vendor/
+nbproject
+node_modules
+composer.lock
+public/build/css

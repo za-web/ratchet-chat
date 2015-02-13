@@ -1,0 +1,26 @@
+{
+  "name": "ratchet-chat",
+  "version": "0.0.0",
+  "authors": [
+    "Aleksandr Zamiatin <cawa123@mail.ru>"
+  ],
+  "description": "Ratchet Test Ratchet application",
+  "keywords": [
+    "chat",
+    "zaweb"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.2",
+    "font-awesome": "~4.3.0",
+    "handlebars": "~3.0.0"
+  }
+}
